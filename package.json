@@ -1,6 +1,6 @@
 {
   "name": "simple-react",
-  "home": "http://TYT1001.github.io/Deploy_react_app",
+  "homePage": "https://TYT1001.github.io/Deploy_react_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
